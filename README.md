@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeetheMichael
-- 👀 I’m interested in women
+- 👀 I’m interested in music
 - 🌱 I’m currently learning how to make a minecraft server
 - 💞️ I’m looking to collaborate on minecraft or twitch
 - 📫 How to reach me: just... I dunmo
