@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KeetheMichael
-- 👀 I’m interested in music
-- 🌱 I’m currently learning how to make a minecraft server
-- 💞️ I’m looking to collaborate on minecraft or twitch
-- 📫 How to reach me: just... I dunmo
+-  @KeetheMichael
+- 👀 Professional music glazer
+- 🌱 I wish I can code
+- 💞️ TDTDTD
+- 📫 How to reach me : khangnguyen081107@gmail.com
 
 <!---
 KeetheMichael/KeetheMichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
