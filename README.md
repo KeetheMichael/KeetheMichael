@@ -1,7 +1,6 @@
 -  @KeetheMichael
 - 👀 Professional music glazer
 - 🌱 I wish I can code
-- 💞️ TDTDTD
 - 📫 How to reach me : khangnguyen081107@gmail.com
 
 <!---
