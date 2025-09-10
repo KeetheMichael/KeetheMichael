@@ -1,7 +1,7 @@
 -  @KeetheMichael
-- 👀 Professional music glazer
+- 👀 Bocconian
 - 🌱 I wish I can code
-- 📫 How to reach me : khangnguyen081107@gmail.com
+- 📫 Reach me : khangnguyen081107@gmail.com
 
 <!---
 KeetheMichael/KeetheMichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
